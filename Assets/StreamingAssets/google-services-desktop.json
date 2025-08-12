@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "59717538965",
+    "project_id": "iosweatherwithchiken",
+    "storage_bucket": "iosweatherwithchiken.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59717538965:ios:c0d038a794f59e1350779c",
+        "android_client_info": {
+          "package_name": "com.weathercheck.withchicken"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf5uzNq08f1_Z5qb43tmHZ13KOVgdA6J4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
